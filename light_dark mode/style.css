@@ -1,0 +1,19 @@
+.content{
+    color: red;
+}
+.newclass{
+    background-color:pink ;
+}
+#mode{
+    background-color: yellowgreen;
+    color: antiquewhite;
+    border: 2px solid black;
+    font-size: bold;
+
+}
+#mode:hover{
+    background-color: pink;
+    color: black;
+    box-shadow: 30px black ;
+
+}
